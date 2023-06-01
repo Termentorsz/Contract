@@ -1,2 +1,2 @@
 # Contract
-Contract BEP20
+Pepereum Contract BEP20
